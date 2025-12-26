@@ -54,4 +54,4 @@ This project simulates a real-world ATM environment where administrators can man
 ---
 
 ### 📬 Contact
-Created by **Tony** - *Computer Science Student*
+Created by **Tony** - *IT Pedagogy Student*
