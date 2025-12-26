@@ -41,7 +41,7 @@ This project simulates a real-world ATM environment where administrators can man
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TonyTheSlacker/ATM.git](https://github.com/TonyTheSlacker/ATM.git)
+    git clone https://github.com/TonyTheSlacker/ATM.git
     ```
 2.  **Open in Visual Studio:**
     * Open `ATM.sln`
